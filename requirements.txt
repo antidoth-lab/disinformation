@@ -9,3 +9,10 @@ langchain_anthropic
 langchain_core
 
 fastapi[standard]
+
+transformers
+
+jupyter
+ipykernel
+jupyterlab
+jupytext
